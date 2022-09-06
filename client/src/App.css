@@ -1,0 +1,35 @@
+#add{
+  background-color: blue;
+  color: azure;
+}
+.bor{
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+}
+table{
+  border:2px solid black;
+  width: 350px;
+  
+  
+}
+.one{
+  display: inline;
+  justify-content: space-around;
+}
+#edit{
+  background-color: blue;
+  color: azure;
+}
+.dis{
+  
+    border:2px solid black;
+    width: 400px;
+    
+    
+  
+}
+.del{
+  background-color: red;
+  color: antiquewhite;
+}
